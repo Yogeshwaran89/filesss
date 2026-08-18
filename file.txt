@@ -1,0 +1,10 @@
+Basic Operations:
+Addition, Subtraction, Multiplication, Division, Floor Division, Modulo
+Power & Root:
+Power/Exponentiation, Square, Cube, Square Root, Cube Root, Nth Root
+Trigonometric Functions:
+Sine, Cosine, Tangent, Arc Sine, Arc Cosine, Arc Tangent (input in degrees)
+Hyperbolic Functions:
+Sinh, Cosh, Tanh
+Logarithmic Functions:
+Log base 10, Log base 2, Natural Log (ln), Custom Base Logarithm, Exponential
