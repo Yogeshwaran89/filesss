@@ -422,6 +422,19 @@ if __name__ == "__main__":
     print("\nCOMPLEX NUMBERS EXAMPLES:")
     print(f"(3+4j) + (1+2j) = {calc.add_complex(3+4j, 1+2j)}")
     print(f"(3+4j) * (1+2j) = {calc.multiply_complex(3+4j, 1+2j)}")
+
+    def environ():
+        """Display environment information"""
+        import sys
+        import platform
+        print("\n" + "="*50)
+        print("ENVIRONMENT INFORMATION")
+        print("="*50)
+        print(f"Python Version: {sys.version}")
+        print(f"Platform: {platform.system()} {platform.release()}")
+        print(f"Processor: {platform.processor()}")
+        print("="*50 + "\n")
+    
     
     # Show history
     calc.show_history()
